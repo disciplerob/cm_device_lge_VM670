@@ -55,7 +55,7 @@ dalvik.vm.dexopt-data-only=1
 
 #Dynamite tweaks
 # Increase battery and longer standby time with deeper sleep
-m.sleep_mode=1
+pm.sleep_mode=1
 ro.ril.disable.power.collapse=0
 # More accurate touch
 movfilter=40
